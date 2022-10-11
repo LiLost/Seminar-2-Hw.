@@ -1,0 +1,5 @@
+C:\Users\iPC\Desktop\Семинар 2 ДЗ\Задача 13\obj\Debug\net6.0\Задача 13.csproj.AssemblyReference.cache
+C:\Users\iPC\Desktop\Семинар 2 ДЗ\Задача 13\obj\Debug\net6.0\Задача 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iPC\Desktop\Семинар 2 ДЗ\Задача 13\obj\Debug\net6.0\Задача 13.AssemblyInfoInputs.cache
+C:\Users\iPC\Desktop\Семинар 2 ДЗ\Задача 13\obj\Debug\net6.0\Задача 13.AssemblyInfo.cs
+C:\Users\iPC\Desktop\Семинар 2 ДЗ\Задача 13\obj\Debug\net6.0\Задача 13.csproj.CoreCompileInputs.cache
